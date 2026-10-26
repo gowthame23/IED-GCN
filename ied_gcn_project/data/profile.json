@@ -1,0 +1,19 @@
+{
+  "driver": "GTiff",
+  "height": 556,
+  "width": 1885,
+  "count": 1,
+  "dtype": "uint8",
+  "crs": "PROJCS[\"Xian 1980 / 3-degree Gauss-Kruger CM 111E\",GEOGCS[\"Xian 1980\",DATUM[\"Xian_1980\",SPHEROID[\"IAG 1975\",6378140,298.256999999996,AUTHORITY[\"EPSG\",\"7049\"]],AUTHORITY[\"EPSG\",\"6610\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4610\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",111],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2382\"]]",
+  "transform": [
+    28.5,
+    0.0,
+    434338.1132402974,
+    0.0,
+    -28.5,
+    3437591.593961778,
+    0.0,
+    0.0,
+    1.0
+  ]
+}
